@@ -1,0 +1,22 @@
+.bg-pink {
+    background-color: rgb(247, 136, 136);
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+
+#second-el {
+    color: rgb(8, 8, 168);
+    font-size: 36px;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+#forth-el {
+    background-color: rgb(105, 214, 105);
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
