@@ -1,5 +1,7 @@
 ### Exercises & Solutions links
 - [Foundations](./foundations)
+    - [intro-to-css](./foundations/intro-to-css)
+        1. [css-methods](./foundations/intro-to-css/01-css-methods)
 - [Intermediate](./intermediate-html-css/)
 - [Advanced](./advanced-html-css/animation/)
 
